@@ -3,6 +3,8 @@
 **'Aspiring Professional Backend Developer'**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AL-Dos&color=blue)
+![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AL-Dos&label=Profile%20Views&query=$.public_repos&color=green)
+
 <!--
 **AL-Dos/AL-Dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
