@@ -38,7 +38,6 @@
     <img align="left" alt="Rails" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
 </div>
 <br/>
-<br/>
 
 #
 
