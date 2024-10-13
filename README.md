@@ -4,6 +4,10 @@
 
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AL-Dos&label=Profile%20Views&query=$.public_repos&color=green)
 ![Followers](https://img.shields.io/github/followers/AL-Dos?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/AL-Dos?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/AL-Dos/your-repository)
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/AL-Dos)
+
 
 # test
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-Dos&show_icons=true&theme=radical)
