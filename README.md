@@ -2,7 +2,7 @@
 
 **'Aspiring Professional Backend Developer'**
 
-![Profile Views](https://komarev.com/ghpvc/?username=AL-Dos&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AL-Dos&color=green)
 <!--
 **AL-Dos/AL-Dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
