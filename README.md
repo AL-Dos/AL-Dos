@@ -32,6 +32,7 @@
 <br />
 
 <div style="line-height: 30px;">
+    <br/>
     <img align="left" alt="Quasar" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" />
     <img align="left" alt="Ruby" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
     <img align="left" alt="Rails" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
