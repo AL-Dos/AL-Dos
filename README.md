@@ -25,8 +25,8 @@
 <img align="left" alt="Python" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Django" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-
 <img align="left" alt="ExpressJS" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+
 <br/>
 <img align="left" alt="DjanroRest" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 <img align="left" alt="Quasar" width="30px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" />
