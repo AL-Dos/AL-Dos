@@ -1,6 +1,7 @@
 # Hi there, I am Aldous Lambert Noel M. Omictin 👋
 
 **`Aspiring Professional Backend Developer`**
+
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AL-Dos&label=Profile%20Views&query=$.public_repos&color=green)
 ![Followers](https://img.shields.io/github/followers/AL-Dos?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/AL-Dos?style=social)
@@ -9,6 +10,7 @@
 ---
 
 ### Languages and tools
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
@@ -29,8 +31,6 @@
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
 <img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
 <br/>
-
-#
 
 # Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-Dos&show_icons=true&theme=radical)
