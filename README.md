@@ -46,8 +46,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AL-Dos&theme=highcontrast)
 <br/>
 
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=AL-Dos&show_icons=true&count_private=true&theme=radical)
-
 
 <!--
 **AL-Dos/AL-Dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
