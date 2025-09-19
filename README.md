@@ -1,6 +1,6 @@
 # Hi there, I am Aldous Lambert Noel M. Omictin 👋
 
-**`Aspiring Professional Backend Developer`**
+**`Professional FullStack Developer of Angular and Spring`**
 
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AL-Dos&label=Profile%20Views&query=$.public_repos&color=green)
 ![Followers](https://img.shields.io/github/followers/AL-Dos?label=Followers&style=social)
@@ -14,19 +14,18 @@
 
 <div style="line-height: 30px;">
     <img align="left" alt="Java" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="left" alt="Dart" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+    <img align="left" alt="Spring" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+    <img align="left" alt="Angular" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
+    <img align="left" alt="MySQL" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="left" alt="PostgreSQL" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="left" alt="TypeScript" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="left" alt="Flutter" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-    <img align="left" alt="AndroidStudio" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-    <img align="left" alt="React" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="left" alt="TailwindCss" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="left" alt="HTML" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img align="left" alt="CSS" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="left" alt="JavaScript" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="left" alt="NodeJS" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="left" alt="Python" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="left" alt="C++" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img align="left" alt="Django" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-    <img align="left" alt="DjanroRest" width="30px" style="margin:10px; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 </div>
 <br />
 
@@ -35,7 +34,6 @@
 </div>
 <br/>
 
-#
 
 ### 📊 Stats
 
